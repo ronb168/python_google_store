@@ -9,13 +9,13 @@ To get a "successful" app, we defined a successful app to be an app that is down
 By analyzing successful applications we have explored the various features that can lead to success such as price, size, genre, and more.
 
 ## Files Information
-#### Data_Mining_Google_Play_Store_Apps.ipynb - Python notebook
-#### Algorithms
+#### 1. Data_Mining_Google_Play_Store_Apps.ipynb - Python notebook
+###### Algorithms
 * Decision Tree
 * Naive Bayes
 * K-Nearest Neighbors
 * Random Forest
 
-#### Final report - PDF file
+#### 2. Final report - PDF file
 
-#### googleplaystore - Excel file (from Kaggle) 
+#### 3. googleplaystore - Excel file (from Kaggle) 
