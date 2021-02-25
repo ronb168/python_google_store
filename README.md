@@ -11,7 +11,7 @@ By analyzing successful applications we have explored the various features that 
 ### Files Information
 
 #### Data_Mining_Google_Play_Store_Apps.ipynb - Python notebook
-## Algorithms
+#### Algorithms
 * Decision Tree
 * Naive Bayes
 * K-Nearest Neighbors
