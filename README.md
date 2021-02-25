@@ -10,6 +10,13 @@ By analyzing successful applications we have explored the various features that 
 
 ### Files Information
 
-#### googleplaystore - Excel file (from Kaggle) 
+#### Data_Mining_Google_Play_Store_Apps.ipynb - Python notebook
+## Algorithms
+* Decision Tree
+* Naive Bayes
+* K-Nearest Neighbors
+* Random Forest
 
-#### The project - PDF file
+#### Final report - PDF file
+
+#### googleplaystore - Excel file (from Kaggle) 
